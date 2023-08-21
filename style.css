@@ -1,0 +1,40 @@
+button{
+    background-color: violet;
+    color: beige;
+}
+#para1{
+    color: #594d37;
+
+}
+#para2{
+    color: cornflowerblue;
+}
+.content{
+    color: brown;
+    background-color: chocolate;
+}
+.anothercontent{
+    color: crimson;
+    background-color: burlywood;
+}
+
+
+
+.boxouterbox{
+    border: solid 2px;
+    border-color:#0a0c0d;
+    background-color: #465c53 ;
+    color: azure;
+    width: 300px;
+    height: 200px;
+}
+    .box1{
+        margin-left: 100px;
+        padding-left: 50px;
+    }
+    .inner-div{
+        margin: 10px;
+        background: #7baba0;
+        width: 200px;
+        height: 100px;
+    }
