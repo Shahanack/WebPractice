@@ -7,14 +7,14 @@
 .left-section{
     width: 300px;
     float: left;
-    height: 400px;
-    background-color: #9cb34d;
+    height: 500px;
+    background-color: yellow;
 }
 .right-section{
     width: 300px;
     float: right;
     height: 400px;
-    background-color: greenyellow;
+    background-color: gold;
 }
 .footer{
     width: 100%;
